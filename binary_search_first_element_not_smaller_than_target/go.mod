@@ -1,0 +1,3 @@
+module binary_search_first_element_not_smaller_than_target
+
+go 1.24.2

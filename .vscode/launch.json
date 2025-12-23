@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug BST",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${workspaceFolder}/knight_shortest_path",
+            "console": "integratedTerminal",
+            "dlvFlags": ["--check-go-version=false"]
+        }
+    ]
+}
