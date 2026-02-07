@@ -6,7 +6,7 @@
             "type": "go",
             "request": "launch",
             "mode": "auto",
-            "program": "${workspaceFolder}/kth_smallest_element_in_a_sorted_matrix",
+            "program": "${workspaceFolder}/ugly-number-ii",
             "console": "integratedTerminal",
             "dlvFlags": ["--check-go-version=false"]
         }
